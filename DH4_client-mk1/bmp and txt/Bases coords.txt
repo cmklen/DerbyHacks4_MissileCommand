@@ -1,0 +1,12 @@
+in the bmp base center coords are:
+center
+-------------
+base0: 31,58
+base1: 63,58
+base2: 96,58
+
+top left:
+-------------
+base0: 29,56
+base1: 61,56
+base2: 94,56
